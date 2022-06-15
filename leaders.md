@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Prajit Sengupta ](mailto:prajit.sengupta@owasp.org)
+* [Arshia Anand ](mailto:arshia.anand@owasp.org)
+* [Maninder Kaur](mailto:maninder.kaur@owasp.org)
