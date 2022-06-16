@@ -8,7 +8,6 @@ meetup-group: OWASP Thapar Institute of Engineering and Technology
 
 ---
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 <img src="./assets/images/owaspTIET.png"/>
 
@@ -34,9 +33,10 @@ We Have Lots Of Exciting Stuff Coming Up Very Soon ! Stay Tuned To Our Media Cha
 
 Follow and Support us on
 
- <a class = "fa-brands fa-instagram" href="https://www.instagram.com/owasp_tiet/" target="_blank" > <span style = "font-family:sans-serif">Instagram </span> </a> <br/>
- <a class = "fa-brands fa-twitter" href="https://twitter.com/Owasp_tiet" target="_blank" > <span style = "font-family:sans-serif"> Twitter  </span></a> <br/>
- <a class = "fa-brands fa-linkedin" href="https://www.linkedin.com/company/owasp-tiet/" target="_blank" > <span style = "font-family:sans-serif">  Linkedin </span></a> <br/>
- <a class = "fa-brands fa-youtube" href="https://www.youtube.com/channel/UC_Qd7v56QH7UKp3u9Mu6Ksg" target="_blank" > <span style = "font-family:sans-serif">  YouTube </span></a> <br/>
- <a class = "fa-brands fa-facebook" href="https://www.facebook.com/owasptsc/" target="_blank" > <span style = "font-family:sans-serif">  Facebook </span></a> <br/>
+ <a href="https://www.instagram.com/owasp_tiet/" target="_blank" ><img width = "20" height = "20" src ="./assets/images/instagram-brands.svg"/> <span style = "font-family:sans-serif">Instagram </span> </a> <br/>
+  <a href="https://github.com/OWASP-STUDENT-CHAPTER" target="_blank" > <img width = "20" height = "20" src ="./assets/images/github-brands.svg"/>  <span style = "font-family:sans-serif">  Github </span></a> <br/>
+ <a href="https://twitter.com/Owasp_tiet" target="_blank" > <img width = "20" height = "20" src ="./assets/images/twitter-brands.svg"/> <span style = "font-family:sans-serif"> Twitter  </span></a> <br/>
+ <a href="https://www.linkedin.com/company/owasp-tiet/" target="_blank" > <img width = "20" height = "20" src ="./assets/images/linkedin-brands.svg"/>  <span style = "font-family:sans-serif">  Linkedin </span></a> <br/>
+ <a href="https://www.youtube.com/channel/UC_Qd7v56QH7UKp3u9Mu6Ksg" target="_blank" > <img width = "20" height = "20" src ="./assets/images/youtube-brands.svg"/> <span style = "font-family:sans-serif">  YouTube </span></a> <br/>
+ <a href="https://www.facebook.com/owasptsc/" target="_blank" > <img width = "20" height = "20" src ="./assets/images/facebook-brands.svg"/>  <span style = "font-family:sans-serif">  Facebook </span></a> <br/>
 
