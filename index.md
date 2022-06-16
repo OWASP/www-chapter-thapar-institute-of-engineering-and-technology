@@ -2,29 +2,15 @@
 
 layout: col-sidebar
 title: OWASP Thapar Institute of Engineering and Technology
-tags: example-tag
+tags: OWASP TIET
 region: Asia
-meetup-group:
+meetup-group: OWASP Thapar Institute of Engineering and Technology
 
 ---
 
-<div style='color:red;'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-<ul>
-<li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
-
-<li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore</li>
-
-<li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
-
-<li>region: This is the region you are in according to our data</li>
-
-<li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
-</ul>
-
-</div>
+<img src="./assets/images/owaspTIET.png"/>
 
 ## Welcome
 Thapar Institute of Engineering and Technology (TIET) has been a steady source of highly skilled talent to the nation as well as overseas. A pioneer in engineering education, research and innovation. The team of OWASP Student Chapter, one of the gilt-edged coding society, involves ingenious mind solvers who are eager to make the world a better place to live in with their innovative techniques and discoveries. By successfully organizing many hackathons, tech-talks, workshops and coding nights, we have always strived hard to maintain the coding culture throughout the campus.
@@ -38,49 +24,19 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-{% include chapter_events.html group=page.meetup-group %}
 
-<!-- You should delete this comment
+### Upcoming Events
 
-Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+We Have Lots Of Exciting Stuff Coming Up Very Soon ! Stay Tuned To Our Media Channels ... :)
 
-{front matter for this file}
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+## CONNECT WITH US!
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+Follow and Support us on
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+ <a class = "fa-brands fa-instagram" href="https://www.instagram.com/owasp_tiet/" target="_blank" > <span style = "font-family:sans-serif">Instagram </span> </a> <br/>
+ <a class = "fa-brands fa-twitter" href="https://twitter.com/Owasp_tiet" target="_blank" > <span style = "font-family:sans-serif"> Twitter  </span></a> <br/>
+ <a class = "fa-brands fa-linkedin" href="https://www.linkedin.com/company/owasp-tiet/" target="_blank" > <span style = "font-family:sans-serif">  Linkedin </span></a> <br/>
+ <a class = "fa-brands fa-youtube" href="https://www.youtube.com/channel/UC_Qd7v56QH7UKp3u9Mu6Ksg" target="_blank" > <span style = "font-family:sans-serif">  YouTube </span></a> <br/>
+ <a class = "fa-brands fa-facebook" href="https://www.facebook.com/owasptsc/" target="_blank" > <span style = "font-family:sans-serif">  Facebook </span></a> <br/>
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-## Next Meeting/Event
----------------------
-{% comment %}
-{% include chapter_events.html group=page.meetup-group %}
-{% endcomment %}
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
