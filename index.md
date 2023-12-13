@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Thapar Institute of Engineering and Technology
 tags: OWASP TIET
 region: Asia
+country: India
 meetup-group: OWASP Thapar Institute of Engineering and Technology
 
 ---
