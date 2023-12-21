@@ -1,4 +1,4 @@
 ### Leaders
-* [Prajit Sengupta ](mailto:prajit.sengupta@owasp.org)
-* [Arshia Anand ](mailto:arshia.anand@owasp.org)
+* [Sanya Gupta ](mailto:sgupta12_be21@thapar.edu)
+* [Ananya Sharma ](mailto:asharma36_be21@thapar.edu)
 * [Maninder Kaur](mailto:maninder.kaur@owasp.org)
