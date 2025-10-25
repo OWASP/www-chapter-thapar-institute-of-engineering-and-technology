@@ -1,0 +1,26 @@
+leaders:
+  - name: Prajit Sengupta
+    email: prajit.sengupta@owasp.org
+    github: Prajit-Sengupta
+  - name: Arshia Anand
+    email: arshia.anand@owasp.org
+  - name: Maninder Kaur
+    email: maninder.kaur@owasp.org
+location:
+  country: India
+  country_code: IN
+  region: Punjab
+  city: Patiala
+  latitude: 30.355661050000002
+  longitude: 76.36581641485134
+meetup_group: OWASP Thapar Institute of Engineering and Technology
+name: OWASP Thapar Institute of Engineering and Technology
+repositories:
+  - name: www-chapter-thapar-institute-of-engineering-and-technology
+    url: https://github.com/OWASP/www-chapter-thapar-institute-of-engineering-and-technology
+    description: OWASP Thapar Institute Foundation Web Repository
+tags:
+  - OWASP
+  - TIET
+  - custom-tag-1
+website: https://owasp.org/www-chapter-thapar-institute-of-engineering-and-technology
